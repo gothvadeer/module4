@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 5em;
+    color: pink;
+    text-align: center;
+}
+
+p {
+    color: pink;
+    text-align: center;
+    font-size: 1.5em;
+}
